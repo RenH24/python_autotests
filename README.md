@@ -25,7 +25,7 @@
 2. Используется библиотека Requests
 3. Параметризированные тесты с использованием декоратора
 
-![image](https://raw.githubusercontent.com/RenH24/python_autotests/refs/heads/main/pytest.png)
+![image](https://raw.githubusercontent.com/RenH24/python_autotests/refs/heads/main/static/pytest.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
